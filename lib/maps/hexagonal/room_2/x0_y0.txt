@@ -1,0 +1,29 @@
+QQQQQQQQQQQQQQ====QQQQQQQQQQQQ
+ Q .   .   .   .   .   .   .   Q
+   Q .   .   .   .   .   .   .   Q
+     Q .   .   .   .   .   .   .   Q
+       Q .   .   .   .   .   .   .   Q
+         Q .   .   .   .   .   .   .   Q  
+           Q .   .   .   .   .   .   .   Q
+            QQQQQQQQQ  .   .   . QQQQQQQQQQ
+                         .   .
+                       .   .
+            TTTTTTT  .   .   . TTTTTTTTTT
+             T .   .   .   .   .   .   . T
+               T .   .   .   .   .   .   . T
+                 T .   .   .   .   .   .   . T
+                   T .   .   .   .   .   .   . T
+                     T .   .   .   .   .   .   . T
+                       T .   .   .   .   .   .   . T
+                        TTTTTTTTT  .   .   . TTTTTTTT
+                         .   .   .   .
+                       .   .   .   .
+           QQQQQQQQ  .   .   . QQQQQQQQQQQ
+            Q  .   .   .   .   .   .   .  Q
+              Q  .   .   .   .   .   .   .  Q
+                Q  .   .   .   .   .   .   .  Q
+                  Q  .   .   .   .   .   .   .  Q
+                    Q  .   .   .   .   .   .   .  Q 
+                      Q  .   .   .   .   .   .   .  Q
+                        QQQQQQQQQQQQQ====QQQQQQQQQQQQQ
+ 
